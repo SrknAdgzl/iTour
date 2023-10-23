@@ -14,6 +14,7 @@
 		DA262BBC2AE2D68100E7973E /* Destination.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA262BBB2AE2D68100E7973E /* Destination.swift */; };
 		DA262BBE2AE2DCAC00E7973E /* EditDestinationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA262BBD2AE2DCAC00E7973E /* EditDestinationView.swift */; };
 		DA7285A92AE6810500C69A1D /* DestinationListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA7285A82AE6810500C69A1D /* DestinationListView.swift */; };
+		DA7285AB2AE6868300C69A1D /* Sight.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA7285AA2AE6868300C69A1D /* Sight.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		DA262BBB2AE2D68100E7973E /* Destination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Destination.swift; sourceTree = "<group>"; };
 		DA262BBD2AE2DCAC00E7973E /* EditDestinationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditDestinationView.swift; sourceTree = "<group>"; };
 		DA7285A82AE6810500C69A1D /* DestinationListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DestinationListView.swift; sourceTree = "<group>"; };
+		DA7285AA2AE6868300C69A1D /* Sight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sight.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				DA262BAD2AE2D60A00E7973E /* iTourApp.swift */,
 				DA262BAF2AE2D60A00E7973E /* ContentView.swift */,
 				DA7285A82AE6810500C69A1D /* DestinationListView.swift */,
+				DA7285AA2AE6868300C69A1D /* Sight.swift */,
 				DA262BBD2AE2DCAC00E7973E /* EditDestinationView.swift */,
 				DA262BBB2AE2D68100E7973E /* Destination.swift */,
 				DA262BB12AE2D60B00E7973E /* Assets.xcassets */,
@@ -149,6 +152,7 @@
 				DA7285A92AE6810500C69A1D /* DestinationListView.swift in Sources */,
 				DA262BB02AE2D60A00E7973E /* ContentView.swift in Sources */,
 				DA262BAE2AE2D60A00E7973E /* iTourApp.swift in Sources */,
+				DA7285AB2AE6868300C69A1D /* Sight.swift in Sources */,
 				DA262BBC2AE2D68100E7973E /* Destination.swift in Sources */,
 				DA262BBE2AE2DCAC00E7973E /* EditDestinationView.swift in Sources */,
 			);
