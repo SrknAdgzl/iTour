@@ -13,6 +13,7 @@
 		DA262BB52AE2D60B00E7973E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA262BB42AE2D60B00E7973E /* Preview Assets.xcassets */; };
 		DA262BBC2AE2D68100E7973E /* Destination.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA262BBB2AE2D68100E7973E /* Destination.swift */; };
 		DA262BBE2AE2DCAC00E7973E /* EditDestinationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA262BBD2AE2DCAC00E7973E /* EditDestinationView.swift */; };
+		DA7285A92AE6810500C69A1D /* DestinationListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA7285A82AE6810500C69A1D /* DestinationListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		DA262BB42AE2D60B00E7973E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DA262BBB2AE2D68100E7973E /* Destination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Destination.swift; sourceTree = "<group>"; };
 		DA262BBD2AE2DCAC00E7973E /* EditDestinationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditDestinationView.swift; sourceTree = "<group>"; };
+		DA7285A82AE6810500C69A1D /* DestinationListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DestinationListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			children = (
 				DA262BAD2AE2D60A00E7973E /* iTourApp.swift */,
 				DA262BAF2AE2D60A00E7973E /* ContentView.swift */,
+				DA7285A82AE6810500C69A1D /* DestinationListView.swift */,
 				DA262BBD2AE2DCAC00E7973E /* EditDestinationView.swift */,
 				DA262BBB2AE2D68100E7973E /* Destination.swift */,
 				DA262BB12AE2D60B00E7973E /* Assets.xcassets */,
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA7285A92AE6810500C69A1D /* DestinationListView.swift in Sources */,
 				DA262BB02AE2D60A00E7973E /* ContentView.swift in Sources */,
 				DA262BAE2AE2D60A00E7973E /* iTourApp.swift in Sources */,
 				DA262BBC2AE2D68100E7973E /* Destination.swift in Sources */,
